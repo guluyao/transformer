@@ -95,12 +95,6 @@ transformer-midterm/
 └── README.md           # 项目说明
 ```
 
-## 预期实验结果
-| 实验组                | 验证损失（Val Loss） | 验证困惑度（Perplexity） |
-|-----------------------|----------------------|--------------------------|
-| 基线模型（完整Transformer） | ~1.1                 | ~3.0                     |
-| 消融位置编码          | ~1.9                 | ~7.0                     |
-| 消融Multi-Head        | ~1.5                 | ~4.5                     |
 
 ## 开源链接
 GitHub仓库：(https://github.com/guluyao/transformer.git)
