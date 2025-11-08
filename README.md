@@ -103,4 +103,4 @@ transformer-midterm/
 | 消融Multi-Head        | ~1.5                 | ~4.5                     |
 
 ## 开源链接
-GitHub仓库：[请替换为你的GitHub仓库地址]
+GitHub仓库：(https://github.com/guluyao/transformer.git)
